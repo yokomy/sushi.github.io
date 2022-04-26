@@ -1,0 +1,52 @@
+<html>
+	<head>
+		<title>Yokomy Sushi</title>
+		<link rel="shorcut icon" href="logo.png">
+		<link rel="stylesheet" href="Estilo.css">
+	</head>
+	<body>
+		<div class="div1">
+		<img src=Yokomy-Logo.png class="logo">
+		<h1 id= "fuente-Lora-Medium">
+			Yokomy Sushi
+		</h1>
+		</div>
+		<hr>
+		<br>
+		<div class="div2">
+		<marquee>
+			<img src=teri.jpg class="pri">
+			<img src=prom.png class="pri">
+			<img src=tres.jpg class="pri">
+		</marquee>
+		<br>
+		</div>
+		<br>
+		<div class="div3">
+		<center>
+		<table class="sin">
+			<tr class="sin">
+				<td class="sin"><A href="Principal.html">
+					<img src=yokomy.png class="img"></A></td>
+				<td class="sin"><A href="Nosotros.html">
+					<img src=nosotros.png class="img"></A></td>
+				<td class="sin"><A href="Producto.html">
+					<img src=Mantra.png class="img"></A></td>
+				<td class="sin"><A href="Contacto.html">
+					<img src=Contacto.png class="img"></A></td>
+			</tr>
+		</table>
+		</center>
+		</div>
+		<br>
+		<div class="div4">
+		<p>
+			&copy; 2022. Derechos reservados<br>
+			Desarrollado por: Ruby Iridia Landa Landa 
+			Matricula: 01916881
+			Grupo: 605<br>
+			Plantel Nueva Tijuana
+		</p>
+		</div>
+	</body>
+</html>
